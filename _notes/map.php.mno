@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_informetion_all" value="name:roll_start;datatype:int,name:roll_end;datatype:int,name:room_no;datatype:string,name:room_loc;datatype:string,name:center_id;datatype:string,name:center_loc_id;datatype:string" />
+</info>
